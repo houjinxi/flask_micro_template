@@ -1,0 +1,8 @@
+# 数据库配置
+environments:
+  local:
+    DIALECT: "mysql"
+    USERNAME: "root"
+    PASSWORD: "123456"
+    HOST: "127.0.0.1"
+    PORT: "3306"
