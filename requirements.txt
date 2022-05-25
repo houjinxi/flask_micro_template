@@ -14,5 +14,5 @@ click==6.7
 arrow==0.15.5
 Flask_SQLAlchemy==2.4.1
 Flask_Migrate==2.5.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyYAML==5.3.1
